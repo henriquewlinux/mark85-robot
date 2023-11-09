@@ -1,0 +1,57 @@
+{
+  "create":{
+    "user":{
+      "name": "Steve Jobs",
+      "email": "jobs@apple.com",
+      "password": "qualidade"
+    },
+    "task":{
+      "name": "Criar uma nova versão do Ipad",
+      "tags": ["ios", "music", "ipad"]
+    }
+  },
+  "duplicate":{
+    "user":{
+      "name": "Amanda Jobs",
+      "email": "amanda@apple.com",
+      "password": "qualidade"
+    },
+    "task":{
+      "name": "Tarefa duplicada",
+      "tags": []
+    }
+  },
+  "tags_limit":{
+    "user":{
+      "name": "Mark Jobs",
+      "email": "mark@apple.com",
+      "password": "qualidade"
+    },
+    "task":{
+      "name": "Linguagens de programação",
+      "tags": ["Python", "CSharp", "Java", "Fortran"]
+    }
+  },
+  "done":{
+    "user":{
+      "name": "Clovis Jobs",
+      "email": "clovis@apple.com",
+      "password": "qualidade"
+    },
+    "task":{
+      "name": "Linguagens de programação",
+      "tags": ["Python", "CSharp", "Java"]
+    }
+  },
+  "delete":{
+    "user":{
+      "name": "Bahia Jobs",
+      "email": "bahia@apple.com",
+      "password": "qualidade"
+    },
+    "task":{
+      "name": "Tarefa para ser deletada",
+      "tags": ["delete", "excluir", "deletar"]
+    }
+  }
+}
